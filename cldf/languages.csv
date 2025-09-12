@@ -1,0 +1,72 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+anci1242,Ionic-Attic Ancient Greek,,39.8155,21.9129,anci1242,,7,language,Indo-European,languages
+arom1237,Aromanian,,40.616,21.2,arom1237,,99,language,Indo-European,languages
+assa1263,Assamese,,26.0876,91.2932,assa1263,,10,language,Indo-European,languages
+aves1237,Avestan,,34.217,62.112,aves1237,,11,language,Indo-European,languages
+bela1254,Belarusian,,53.2307,25.6038,bela1254,,17,language,Indo-European,languages
+beng1280,Bengali,,24.0,90.0,beng1280,,13,language,Indo-European,languages
+bret1244,Breton,,48.2452,-3.78934,bret1244,,15,language,Indo-European,languages
+bulg1262,Bulgarian,,43.3646,25.047,bulg1262,,16,language,Indo-European,languages
+cent1973,Central Pashto,,31.9153,69.4529,cent1973,,102,language,Indo-European,languages
+chur1257,Church Slavic,,43.7171,22.8442,chur1257,,60,language,Indo-European,languages
+corn1251,Cornish,,50.5233,-4.18619,corn1251,,20,language,Indo-European,languages
+czec1258,Czech,,49.873398,15.10437,czec1258,,21 22,language,Indo-European,languages
+dani1285,Danish,,54.8655,9.36284,dani1285,,23,language,Indo-European,languages
+digo1242,Digor Ossetian,,43.158056,44.156944,digo1242,,24 41 69,language,Indo-European,languages
+faro1244,Faroese,,62.0732,-6.88497,faro1244,,27,language,Indo-European,languages
+friu1240,Friulian,,46.1473,13.0493,friu1240,,31,language,Indo-European,languages
+goth1244,Gothic,,46.9304,29.9786,goth1244,,33,language,Indo-European,languages
+guja1252,Gujarati,,22.687,71.0962,guja1252,,36,language,Indo-European,languages
+hind1269,Hindi,,25.0,77.0,hind1269,,37 97,language,Indo-European,languages
+hitt1242,Hittite,,40.0,35.0,hitt1242,,38,language,Indo-European,languages
+icel1247,Icelandic,,63.4837,-19.0212,icel1247,,39,language,Indo-European,languages
+iris1253,Irish,,53.2186,-7.61509,iris1253,,40 63,language,Indo-European,languages
+ital1282,Italian,,43.0464,12.6489,ital1282,,42,language,Indo-European,languages
+kash1277,Kashmiri,,34.166825,74.330455,kash1277,,43,language,Indo-European,languages
+ladi1250,Ladin,,46.60651,11.89498,ladi1250,,45,language,Indo-European,languages
+lati1261,Latin,,41.9026,12.4502,lati1261,,47,language,Indo-European,languages
+latv1249,Latvian,,56.826108,24.309118,latv1249,,48,language,Indo-European,languages
+lith1251,Lithuanian,,55.1429,23.9601,lith1251,,49 50,language,Indo-European,languages
+luxe1241,Moselle Franconian,,49.6839,6.14931,luxe1241,,54,language,Indo-European,languages
+lyci1241,Lycian A,,36.517,29.764,lyci1241,,55,language,Indo-European,languages
+mace1250,Macedonian,,41.5957,21.7932,mace1250,,56,language,Indo-European,languages
+mara1378,Marathi,,17.9344,76.6665,mara1378,,57,language,Indo-European,languages
+marw1260,Marwari (India),,27.002,75.0656,marw1260,,58,language,Indo-European,languages
+mode1248,Modern Greek,,38.36,23.13,mode1248,,34,language,Indo-European,languages
+nepa1254,Nepali,,28.0,85.0,nepa1254,,59,language,Indo-European,languages
+norw1258,Norwegian,,59.92,10.71,norw1258,,74,language,Indo-European,languages
+nucl1235,Eastern Armenian,,40.0,45.0,nucl1235,,8 19,language,Indo-European,languages
+occi1239,Occitan,,44.1415,6.82979,occi1239,,73,language,Indo-European,languages
+oldn1244,Old Norse,,63.42,10.38,oldn1244,,64,language,Indo-European,languages
+oldp1254,Old Persian (ca. 600-400 B.C.),,32.0,54.0,oldp1254,,65 70,language,Indo-European,languages
+oriy1255,Odia,,21.0,85.0,oriy1255,,67,language,Indo-European,languages
+osca1245,Oscan,,40.98,15.67,osca1245,,68,language,Indo-European,languages
+poli1260,Polish,,51.8439,18.6255,poli1260,,71,language,Indo-European,languages
+port1283,Portuguese,,39.91,-8.1,port1283,,72,language,Indo-European,languages
+prus1238,Old Prussian,,52.394,14.757,prus1238,,66,language,Indo-European,languages
+roma1326,Romansh,,46.5538,9.92812,roma1326,,77,language,Indo-European,languages
+roma1327,Romanian,,46.3913,24.2256,roma1327,,76,language,Indo-European,languages
+russ1263,Russian,,59.0,50.0,russ1263,,78,language,Indo-European,languages
+sans1269,Sanskrit,,20.0,77.0,sans1269,,98,language,Indo-European,languages
+scot1243,Scots,,55.886945,-3.710133,scot1243,,82,language,Indo-European,languages
+sind1272,Sindhi,,26.0,69.0,sind1272,,84,language,Indo-European,languages
+sinh1246,Sinhala,,8.0,81.0,sinh1246,,85,language,Indo-European,languages
+slov1268,Slovenian,,46.2543,14.7766,slov1268,,87,language,Indo-European,languages
+slov1269,Slovak,,48.545705,18.78479,slov1269,,86,language,Indo-European,languages
+sout1528,Serbian-Croatian-Bosnian,,44.15,18.81,sout1528,,83,language,Indo-European,languages
+stan1288,Spanish,,40.4414,-1.11788,stan1288,,88,language,Indo-European,languages
+stan1289,Catalan,,41.453,1.569,stan1289,,18,language,Indo-European,languages
+stan1290,French,,48.0,2.0,stan1290,,29,language,Indo-European,languages
+stan1293,English,,53.0,-1.0,stan1293,,26 61,language,Indo-European,languages
+swed1254,Swedish,,59.800634,17.389526,swed1254,,89 90 91,language,Indo-European,languages
+taji1245,Tajik,,38.8213,68.5549,taji1245,,92,language,Indo-European,languages
+tokh1242,Tokharian A,,42.98,89.18,tokh1242,,93 94,language,Indo-European,languages
+ukra1253,Ukrainian,,49.796,29.945,ukra1253,,95,language,Indo-European,languages
+umbr1253,Umbrian,,42.75,13.02,umbr1253,,96,language,Indo-European,languages
+vlaa1240,Western Flemish,,51.0754,3.11345,vlaa1240,,28,language,Indo-European,languages
+wakh1245,Wakhi,,37.1768,73.9777,wakh1245,,100,language,Indo-European,languages
+wall1255,Walloon,,50.2235,5.14509,wall1255,,101,language,Indo-European,languages
+wels1247,Welsh,,52.0,-4.0,wels1247,,103 104,language,Indo-European,languages
+west2354,Western Frisian,,53.143,5.86091,west2354,,30,language,Indo-European,languages
+west2386,Western Panjabi,,30.0948,75.3474,west2386,,46,language,Indo-European,languages
+indo1319,Indo-European,,,,indo1319,,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104,family,,families

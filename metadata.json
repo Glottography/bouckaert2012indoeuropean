@@ -1,0 +1,8 @@
+{
+    "id": "bouckaert2012indoeuropean",
+    "title": "Glottography dataset derived from Bouckaert et al. 2012 \"Mapping the origins and expansion of the Indo-European language family\"",
+    "description": "This dataset provides overlapping, approximate ranges for contemporary **and** ancient Indo-European languages as described and published with Bouckaert et al. 2012.",
+    "license": "CC-BY-4.0",
+    "url": null,
+    "citation": "Bouckaert, Remco, Philippe Lemey, Michael Dunn, Simon J Greenhill, Alexander V Alekseyenko, Alexei J Drummond, Russell D Gray & Quentin D Suchard Marc A and Atkinson. 2012. Mapping the origins and expansion of the Indo-European language family. Science 337(6097). 957\u2013960. American Association for the Advancement of Science."
+}

@@ -1,0 +1,18 @@
+{
+    "creators": [
+        {
+            "name": "The Glottography Consortium"
+        }
+    ],
+    "title": "Glottography dataset derived from Bouckaert et al. 2012 \"Mapping the origins and expansion of the Indo-European language family\"",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Bouckaert, Remco, Philippe Lemey, Michael Dunn, Simon J Greenhill, Alexander V Alekseyenko, Alexei J Drummond, Russell D Gray &amp; Quentin D Suchard Marc A and Atkinson. 2012. Mapping the origins and expansion of the Indo-European language family. Science 337(6097). 957\u2013960. American Association for the Advancement of Science.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

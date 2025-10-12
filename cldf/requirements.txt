@@ -8,8 +8,6 @@ bs4==0.0.2
 certifi==2024.8.30
 chardet==5.2.0
 cldfbench==1.14.1
--e git+https://github.com/Glottography/asher2007world@2240c3f3617f04a0290c8ed24b33cbf11e8bf02e#egg=cldfbench_asher2007world
--e git+https://github.com/Glottography/bowern2021australia@d638c53de5799c4a7e1f16f96e4b89038329ad7e#egg=cldfbench_bowern2021australia
 cldfcatalog==1.5.1
 cldfgeojson==1.6.0
 cldfzenodo==2.1.2

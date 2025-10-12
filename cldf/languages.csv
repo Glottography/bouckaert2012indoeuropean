@@ -1,4 +1,7 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+olds1252,Old Swedish,,,,olds1252,,91,dialect,Indo-European,dialects
+vedi1234,Vedic Sanskrit,,,,vedi1234,,98,dialect,Indo-European,dialects
+waci1238,Waciri,,,,waci1238,,102,dialect,Indo-European,dialects
 anci1242,Ionic-Attic Ancient Greek,,39.8155,21.9129,anci1242,,7,language,Indo-European,languages
 arom1237,Aromanian,,40.616,21.2,arom1237,,99,language,Indo-European,languages
 assa1263,Assamese,,26.0876,91.2932,assa1263,,10,language,Indo-European,languages

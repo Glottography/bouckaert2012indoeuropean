@@ -23,6 +23,8 @@ cldf validate cldf
 
 ```shell
 cldfbench geojson.validate cldf
+104     valid features
+74      valid speaker areas
 ```
 
 ```shell
@@ -41,3 +43,13 @@ sans1269: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 7.61
 goth1244: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 13.12
 oldn1244: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 23.94
 ```
+
+## Release
+
+Commit and push all changes.
+
+Run
+```
+cldfbench glottography.release cldfbench_bouckaert2012indoeuropean.py vX.Y
+```
+and follow the instructions given in the output of the command.
